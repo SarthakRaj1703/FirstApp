@@ -1,1 +1,1 @@
-here is the result: whatup this is first text file, here is the result: whatup this is second text file
+This is cool: whatup this is first text file whatup second text woohoo
